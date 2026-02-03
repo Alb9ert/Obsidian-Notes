@@ -11,10 +11,14 @@
             "id": "d080f90eb56d1a0f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "SW6/Models and Tools for Cyber-Physical Systems/1. Introduction.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "1. Introduction"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SW6/Models and Tools for Cyber-Physical Systems/1. Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 1. Introduction"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SW6/Models and Tools for Cyber-Physical Systems/1. Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 1. Introduction"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "SW6/Models and Tools for Cyber-Physical Systems/1. Introduction.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 1. Introduction"
             }
           }
         ]
@@ -177,15 +184,21 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "8c052614819e4ab0",
+  "active": "d080f90eb56d1a0f",
   "lastOpenFiles": [
+    "SW6/Models and Tools for Cyber-Physical Systems/attachments/Pasted image 20260203131250.png",
+    "SW6/Models and Tools for Cyber-Physical Systems/PID Controller.md",
+    "SW6/Models and Tools for Cyber-Physical Systems/attachments/Pasted image 20260203125937.png",
     "SW6/foo.md",
-    "SW6/Models and Tools for Cyber-Physical Systems/Introduction.md",
+    "SW6/Models and Tools for Cyber-Physical Systems/1. Introduction.md",
+    "SW6/Models and Tools for Cyber-Physical Systems/attachments/Pasted image 20260203123816.png",
+    "SW6/Models and Tools for Cyber-Physical Systems/attachments",
+    "SW6/Models and Tools for Cyber-Physical Systems/MTCPS-Intro.pdf",
+    "Welcome.md",
     "SW6/Algorithms and Computability",
     "SW6/Security",
     "SW6/Models and Tools for Cyber-Physical Systems",
     "SW6",
-    "6. Semester",
-    "Welcome.md"
+    "6. Semester"
   ]
 }
